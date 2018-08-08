@@ -1,6 +1,5 @@
-collection = ["John Smith", "Yoshi Bara", "Zed Nugget"]
+# collection = ["John Smith", "Yoshi Bara", "Zed Nugget"]
 
-collection = ["John Smith", "Yoshi Bara", "Zed Nugget"]
 
 def my_collect(collection)
   i = 0
