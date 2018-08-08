@@ -13,5 +13,5 @@ def my_collect(collection)
 end
 
 my_collect(collection) do |i|
-  i
+  new_array[i]
 end
