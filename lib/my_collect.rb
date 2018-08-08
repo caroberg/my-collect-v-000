@@ -15,5 +15,3 @@ def my_collect(collection)
   # new_array
   # second_array
 end
-
-
