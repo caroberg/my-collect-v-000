@@ -7,11 +7,9 @@ def my_collect(collection)
   while i < collection.length
     yield collection[i]
     i += 1
-  new_array << collection[i - 1].upcase
-  second_array << collection[i - 1].split(" ").first
+  new_array << collection[i - 1]
   end
   new_array
-  second_array
 end
 
 my_collect(collection) do |i|
