@@ -13,9 +13,9 @@ def my_collect(collection)
   # second_array << collection[i - 1].split(" ").first
   end
   # new_array
-  # second_array 
+  # second_array
 end
 
-my_collect(collection) do |i|
-  i
-end
+# my_collect(collection) do |i|
+  # i
+# end
