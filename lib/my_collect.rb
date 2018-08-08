@@ -11,6 +11,7 @@ def my_collect(collection)
   # new_array << collection[i - 1].upcase
   # second_array << collection[i - 1].split(" ").first
   end
+  collection
   # new_array
   # second_array
 end
