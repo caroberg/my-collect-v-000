@@ -6,7 +6,7 @@ def my_collect(collection)
   new_array = []
   # second_array = []
   while i < collection.length
-    yield new_array << collection[i]
+    yield new_array << collection[i - 1]
     i += 1
   # new_array << collection[i - 1].upcase
   # second_array << collection[i - 1].split(" ").first
